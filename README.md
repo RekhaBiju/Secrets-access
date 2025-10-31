@@ -23,7 +23,7 @@ Run Locally
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/RekhaBiju/secret-access-project.git
+   git clone https://github.com/RekhaBiju/Secrets-access.git
 2. Install dependencies: npm install express body-parser
 
 3. Run the app: node index.js
